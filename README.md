@@ -11,6 +11,12 @@ For all main contributors, please check [contributing](#contributing).
 
 ## Top News
 
+**`2022-02-23`**: [SCRFD](detection/scrfd) accepted by [ICLR-2022](https://iclr.cc/Conferences/2022).
+
+**`2022-01-29`**: Python pip package ver 0.6.2 updated, added pose estimation and fixed model downloading urls, see [detail](python-package).
+
+**`2022-01-18`**: Ambiguity-Aware Human Pose Estimation is now available at [here](body/human_pose/ambiguity_aware).
+
 **`2021-11-30`**: [MFR-Ongoing](challenges/mfr) challenge launched, which is an extended version of [iccv21-mfr](challenges/iccv21-mfr).
 
 **`2021-11-25`**: Training face landmarks by synthetic data, see [alignment/synthetics](alignment/synthetics).
@@ -121,7 +127,12 @@ We provide standard IJB and Megaface evaluation pipelines in [evaluation](recogn
 - Caffe: [arcface-caffe](https://github.com/xialuxi/arcface-caffe)
 - Caffe: [CombinedMargin-caffe](https://github.com/gehaocool/CombinedMargin-caffe)
 - Tensorflow: [InsightFace-tensorflow](https://github.com/luckycallor/InsightFace-tensorflow)
-- TensorRT: [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)
+- TensorRT: [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)  
+- TensorRT: [InsightFace-REST](https://github.com/SthPhoenix/InsightFace-REST)
+- ONNXRuntime C++: [ArcFace-ONNXRuntime](https://github.com/DefTruth/lite.ai.toolkit/blob/main/lite/ort/cv/glint_arcface.cpp)
+- MNN: [ArcFace-MNN](https://github.com/DefTruth/lite.ai.toolkit/blob/main/lite/mnn/cv/mnn_glint_arcface.cpp)
+- TNN: [ArcFace-TNN](https://github.com/DefTruth/lite.ai.toolkit/blob/main/lite/tnn/cv/tnn_glint_arcface.cpp)
+- NCNN: [ArcFace-NCNN](https://github.com/DefTruth/lite.ai.toolkit/blob/main/lite/ncnn/cv/ncnn_glint_arcface.cpp)
 
 ## Face Detection
 
